@@ -1,5 +1,5 @@
 # PianoScores
-The piano scores made through Overtrue
+The piano scores made by Overtrue
 
 Time to Love : http://www.tan8.com/yuepu-45270.html
 
